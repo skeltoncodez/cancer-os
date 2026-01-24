@@ -18,3 +18,18 @@ STORAGE_DATA: 7002
 
 ROM: 8000-FFFF
 
+## ideal features:
+
+[ ] File System
+
+[ ] Dynamic Memory Allocation
+
+[ ] Shell
+
+[ ] Shell Scripts
+
+[ ] Program handling
+
+[ ] Multiprocessing
+
+[ ] System Calls
