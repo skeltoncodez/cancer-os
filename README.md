@@ -20,16 +20,16 @@ ROM: 8000-FFFF
 
 ## ideal features:
 
-[ ] File System
+- [ ] File System
 
-[ ] Dynamic Memory Allocation
+- [ ] Dynamic Memory Allocation
 
-[ ] Shell
+- [ ] Shell
 
-[ ] Shell Scripts
+- [ ] Shell Scripts
 
-[ ] Program handling
+- [ ] Program handling
 
-[ ] Multiprocessing
+- [ ] Multiprocessing
 
-[ ] System Calls
+- [ ] System Calls
